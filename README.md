@@ -3,7 +3,7 @@
 
 2. What five objects are created in the main?
 
-The five objects created in the main are one object that is an instance of the ArrayList class, three objects that are instances of the Dog class, and one object that is an instance of the Comparator class. 
+The five objects created in the main are one object that is an instance of the ArrayList class, three objects that are instances of the Dog class, and one object that is an instance of the Comparator class.
  
 3. Can you spot the Comparator constructor call? Where is the class definition for the Comparator?
 
