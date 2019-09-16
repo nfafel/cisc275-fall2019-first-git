@@ -7,4 +7,4 @@ The five objects created in the main are one object that is an instance of the A
  
 3. Can you spot the Comparator constructor call? Where is the class definition for the Comparator?
 
-The Comparator constructor is called on line 16 by the code: 'new Comparator<Animal>()'. The class definition for the Comparator is the lines of code that starts directly after the new keyword on line 16 and ends on line 21.
+The Comparator constructor is called on line 16 by the code: 'new Comparator\<Animal\>()'. The class definition for the Comparator is the lines of code that starts directly after the new keyword on line 16 and ends on line 21.
