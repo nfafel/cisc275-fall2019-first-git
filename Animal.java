@@ -4,8 +4,8 @@ class Animal {
     String name;
 
     public Animal(String name, int numLegs) {
-        /* This constructor takes two variable which are the name of the animal, a String, and the number of legs of the animal, an int.
-         * This constructor then sets the name and numLegs attributes with the appropriate argument values. */
+        /* This constructor takes two variables which are the name of the animal, a String, and the number of legs the animal has, an int.
+         * This constructor then sets the name and numLegs attributes to the appropriate argument values. */
         this.numLegs = numLegs;
         this.name = name;
     }
