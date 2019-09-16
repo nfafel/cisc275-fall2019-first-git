@@ -1,0 +1,2 @@
+GitHub username: nfafel
+URL to GitHub repository: https://github.com/nfafel/cisc275-fall2019-first-git.git
