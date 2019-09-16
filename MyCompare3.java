@@ -17,7 +17,6 @@ public class MyCompare3 {
         
 			@Override
 			public int compare(Animal a, Animal b){
-                System.out.println("object");
 			    return a.getLegs() - b.getLegs();
 			}
 		});
