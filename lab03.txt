@@ -18,9 +18,10 @@ mkdir gitExample
 cd gitExample
 git init
 touch file1.txt file2.txt file3.txt file4.txt
+git add file2.txt file3.txt file4.txt
+git commit -m 'tracking files file2.txt file3.txt'
 echo 'This file is modified' >> file2.txt
-git add file4.txt
-git commit -m 'first commit for file4.txt'
+echo 'This file will be staged' >> file3.txt
 git add file3.txt
 
 
